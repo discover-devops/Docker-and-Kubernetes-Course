@@ -1,4 +1,4 @@
- **Docker and Kubernetes** course, 
+ **Docker and Kubernetes** course
 
 ---
 
